@@ -1,0 +1,19 @@
+{
+  "name": "request",
+  "version": "1.0.0",
+  "description": "https://web-compass.lighthouselabs.ca/days/w2d1/activities/518",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosexw/w2d1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosexw/w2d1/issues"
+  },
+  "homepage": "https://github.com/rosexw/w2d1#readme"
+}
